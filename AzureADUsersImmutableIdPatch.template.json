@@ -64,6 +64,7 @@
       }
   },
   "variables": {
+      "scriptFileLocation" : "https://raw.githubusercontent.com/Dmytro-Khomenko-Imprivata/AzureADUserEnricher/main/Set-ImmutableIdForActiveDirectoryUsers.ps1.txt?token=GHSAT0AAAAAAB7EDTFLRLLVKNLRFW57T62OY7WFDPQ",
       "scriptFileHash" : "81567e97c748133a47198d6abcd27fc64e82ffbf5aeb16d89a5c2c04c828c363",
       "scriptFileVersion" : "1.0",
       "webhookRequestId": "SetImmutableIdForAzureADUsers",
